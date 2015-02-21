@@ -1,8 +1,7 @@
 #Getting and Cleaning Data Project
 
- 
- ## README
- -----------
+##README
+-----------
  
 This repository encloses the project submission for the Coursera course Getting and 
 Cleaning Data.
